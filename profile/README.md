@@ -1,9 +1,8 @@
-<p align="center">
-  <h1 align="center">Equipe de Recherche sur les Processus Innovatifs - ERPI </h1>
-  <p align="center"><img src="Logos.png" alt="logo ERPI"/></p>
-</p>
+# Equipe de Recherche sur les Processus Innovatifs - ERPI
 
-# Welcome 👋
+
+
+## Welcome 👋
 
 This is the GitHub organization of the [ERPI Research Lab](http://erpi.univ-lorraine.fr/),  at the [Université de Lorraine (UL)](https://www.univ-lorraine.fr/). 
 
